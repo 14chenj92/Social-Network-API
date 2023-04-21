@@ -36,15 +36,15 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Installation
 * clone repo
 * install node 
-* install packages (express, mongoose)
+* install packages (express, mongoose, moment)
 * open terminal
 * add seeds using node utils/seed.js
 * npm start
 
 ## Usage
-Video Link: 
+Video Link: https://drive.google.com/file/d/1sO_FjKTc9oZSLUzl5B4i0vHiQdLWaTG_/view
 
-<img src="Assets/sample1.PNG">
+<img src="Assets/App.PNG">
   
 
 ## License
