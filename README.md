@@ -44,7 +44,7 @@ THEN I am able to successfully create and delete reactions to thoughts and add a
 ## Usage
 Video Link: https://drive.google.com/file/d/1sO_FjKTc9oZSLUzl5B4i0vHiQdLWaTG_/view
 
-<img src="Assets/App.PNG">
+<img src="images/App.PNG">
   
 
 ## License
